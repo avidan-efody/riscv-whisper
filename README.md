@@ -1,6 +1,6 @@
 # Intro
 
-This repository bundles the RISC-V toolchain together with whisper ISS, and allows quick compilation/running of RISC-V C/assembley
+This repository bundles the RISC-V toolchain together with whisper ISS into a docker image, and allows quick compilation/running of RISC-V C/assembley
 
 # Example 
 
